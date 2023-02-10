@@ -8,7 +8,7 @@ They would like advice on what aspects of employment potentially contribute to e
 
 What features increase an employee's likelihood to leave IBM the most?
 
-What features reduce an employee's liklihood to leave IBM the most?
+What features reduce an employee's likelihood to leave IBM the most?
 
 ## Data Source and Exploration
 
