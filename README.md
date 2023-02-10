@@ -48,6 +48,6 @@ IBM should consider the following when mitigating risks of employee attrition:
 
 Employee attrition descreases as total working years, number of years in current role, and job level increase. 
 
-The longer an employee has been with IBM, and the higher job level they have obtained, the more likely that employee is to stay with the company. 
+The longer an employee has been with IBM, and the higher job level they have obtained, the more likely that employee is to stay with the company. If IBM is to retain employees, IBM should incentivize longevity with the company and maintain pathways of upward mobility for employees.  
 
 More information is needed to act on this information. IBM should conduct further surveys to investigate why more senior employees have stayed, and why more junior employees may leave. Consider more qualitative data to help unpack quantitative survey questions, and consider further inquiries regarding diversity and belonging to determine whether there is a pattern in the type of employee attrition that is taking place. 
