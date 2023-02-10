@@ -32,14 +32,21 @@ I created the following visualizations from this data:
 ![Attrition and Job Level](https://user-images.githubusercontent.com/98120389/217927186-b399322c-692b-48ac-903d-dd77832d64fb.png)
 
 
-I ran XGBoost to create an improved model, and utilized GridSearchCV to improve upon that model. 
+I ran a basic Logistic Regression model, and then ran XGBoost to create an improved model. I attempted to boost that model with GridSearchCV, but that proved ineffective.
 
-This resulted in a model with a Training Accuracy of 93.92% and a Validation Accuracy of 88.32%.
+This resulted in a model with the following evaluation metrics:
+Training Accuracy: 100.0%
+Validation Accuracy: 86.96%
+Training Precision: 100.0%
+Validation Precision: 50.0%
+Training Recall: 100.0%
+Validation Recall: 33.33%
+Training F1 Score: 100.0%
+Validation F1 Score: 40.0%
 
 Below is my Confusion Matrix for the model:
 
-![Attrition Model Confusion Matrix](https://user-images.githubusercontent.com/98120389/217927922-a4e54c7a-3785-4f93-b47f-cca8da4832cb.png)
-
+![Attrition Confusion Matrix](https://user-images.githubusercontent.com/98120389/218210923-71992173-cbe6-4356-a4aa-a5577bd8f232.png)
 
 ## Conclusion and Recommendation
 
