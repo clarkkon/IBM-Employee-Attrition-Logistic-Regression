@@ -20,7 +20,6 @@ All features in the dataset were used. The most relevant were:
 * Job Level
 * Number of Companies Worked
 * Distance from Home
-* Monthly Rate
 
 
 I created the following visualizations from this data:
