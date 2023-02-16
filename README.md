@@ -61,3 +61,12 @@ Employee attrition decreases as total working years, number of years in current 
 The longer an employee has been with IBM, and the higher job level they have obtained, the more likely that employee is to stay with the company. IBM should incentivize longevity with the company, perhaps through stock or other perk options, and should maintain pathways of upward mobility for employees. 
 
 More information is needed to act on this information. IBM should conduct further surveys to investigate why more senior employees have stayed, and why more junior employees may leave. Consider more qualitative data to help unpack quantitative survey questions, and consider further inquiries regarding diversity and belonging to determine whether there is a pattern in the type of employee attrition that is taking place. 
+
+
+## Navigating the repository:
+
+Data can be found in employee_attriion.csv file
+
+index.ipynb contains the coding and markup
+
+presentation.pdf is PowerPoint presentation of my information for my stakeholder, the link for which presentation can be found [here](https://docs.google.com/presentation/d/1cg4bz9WO3JMktPdvxqbhGGsCYClR589xYYdrvFqUKxY/edit?usp=sharing).
