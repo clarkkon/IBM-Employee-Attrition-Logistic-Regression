@@ -12,7 +12,7 @@ What features reduce an employee's likelihood to leave IBM the most?
 
 ## Data Source and Exploration
 
-This data comes from the IBM HR Analytics Employee Attrition & Performance dataset at kaggle.com.
+This data comes from the IBM HR Analytics Employee Attrition & Performance dataset at the following site: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 All features in the dataset were used. The most relevant were:
 * Total Working Years
