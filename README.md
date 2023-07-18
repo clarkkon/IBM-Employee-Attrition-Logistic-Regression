@@ -12,7 +12,7 @@ What features reduce an employee's likelihood to leave IBM the most?
 
 ## Data Source and Exploration
 
-This data comes from the IBM HR Analytics Employee Attrition & Performance dataset at the following site: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset.  Click the link, then click download to download the dataset as a csv file, labeled WA_Fn-UseC_-HR-Employee-Attrition.csv.  For reproducibility, you will need either to rename the file employee_attrition.csv or replace df = pd.read_csv('employee_attrition.csv') in cell one of the index with the following: df = pd.read_csv('WA_Fn-UseC_-HR-Employee-Attrition.csv'). 
+This data comes from the IBM HR Analytics Employee Attrition & Performance dataset at the following site: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset.  Click the link, then click download to download the dataset as a csv file, labeled WA_Fn-UseC_-HR-Employee-Attrition.csv.  For reproducibility, you will need either to rename the file employee_attrition.csv or replace df = pd.read_csv('employee_attrition.csv') in cell one of the notebook with the following: df = pd.read_csv('WA_Fn-UseC_-HR-Employee-Attrition.csv'). 
 
 All features in the dataset were used. The most relevant were:
 * Total Working Years
