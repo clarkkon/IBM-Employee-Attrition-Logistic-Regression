@@ -65,7 +65,7 @@ More information is needed to act on this information. IBM should conduct furthe
 
 ## Navigating the repository:
 
-Data can be found in employee_attriion.csv file
+Data for this project can be found in employee_attriion.csv file
 
 index.ipynb contains the coding and markup
 
