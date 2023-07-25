@@ -22,7 +22,7 @@ All features in the dataset were used. The most relevant were:
 * Distance from Home
 
 
-I created the following visualizations from this data (among others, see notebook labeled index.ipynb for all visualizations):
+I created the following visualizations from this data (among many others, see notebook labeled index.ipynb for all visualizations):
 
 ![Correlation Between Attributes](https://github.com/clarkkon/IBM-Employee-Attrition-Logistic-Regression/assets/98120389/5a3ba293-74e1-48b9-86c8-889dca3eadc5)
 
