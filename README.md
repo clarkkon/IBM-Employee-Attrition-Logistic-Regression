@@ -22,15 +22,15 @@ All features in the dataset were used. The most relevant were:
 * Distance from Home
 
 
-I created the following visualizations from this data:
-![Heat Map of Correlating Features](https://user-images.githubusercontent.com/98120389/217927030-e00c3912-a63b-4d16-86ad-143e2eeaf84e.png)
+I created the following visualizations from this data (among others, see notebook labeled index.ipynb for all visualizations):
 
-![Attrition and Total Working Years](https://user-images.githubusercontent.com/98120389/217927152-0c8d4c86-6d17-4383-b13c-2c320ef25cfc.png)
+![Correlation Between Attributes](https://github.com/clarkkon/IBM-Employee-Attrition-Logistic-Regression/assets/98120389/5a3ba293-74e1-48b9-86c8-889dca3eadc5)
 
-![Attrition and Years in Current Role](https://user-images.githubusercontent.com/98120389/217927172-d1aeb9a1-2554-412e-8a1a-af0ec64ed300.png)
+![Attrition and Total Working Years](https://github.com/clarkkon/IBM-Employee-Attrition-Logistic-Regression/assets/98120389/990b1d76-f550-45eb-a987-3e5554ffd203)
 
-![Attrition and Job Level](https://user-images.githubusercontent.com/98120389/217927186-b399322c-692b-48ac-903d-dd77832d64fb.png)
+![Attrition and Years in Current Role](https://github.com/clarkkon/IBM-Employee-Attrition-Logistic-Regression/assets/98120389/1486a931-7011-4ec2-a952-9f07804d76d7)
 
+![Attrition and Job Level](https://github.com/clarkkon/IBM-Employee-Attrition-Logistic-Regression/assets/98120389/17ae2068-58b5-41f6-9fd3-da9f0eb0cf27)
 
 I ran a basic Logistic Regression model, and then ran XGBoost to create an improved model. I attempted to boost that model with GridSearchCV, but that proved ineffective.
 
@@ -46,7 +46,7 @@ Validation F1 Score: 40.0%
 
 Below is my Confusion Matrix for the model:
 
-![Attrition Confusion Matrix](https://user-images.githubusercontent.com/98120389/218210923-71992173-cbe6-4356-a4aa-a5577bd8f232.png)
+![Confusion Matrix](https://github.com/clarkkon/IBM-Employee-Attrition-Logistic-Regression/assets/98120389/5e176215-4101-4399-b22d-e3849c37cdce)
 
 ## Conclusion and Recommendation
 
