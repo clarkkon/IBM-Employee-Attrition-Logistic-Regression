@@ -6,6 +6,8 @@ My stakeholder is IBM, and the company wishes to mitigate employee attrition.
 
 They would like advice on what aspects of employment potentially contribute to employee attrition.
 
+Business Questions:
+
 What features increase an employee's likelihood to leave IBM the most?
 
 What features reduce an employee's likelihood to leave IBM the most?
