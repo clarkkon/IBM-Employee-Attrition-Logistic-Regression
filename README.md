@@ -67,6 +67,8 @@ More information is needed to act on this information. IBM should conduct furthe
 
 Data for this project can be found in employee_attriion.csv file
 
+Images for README can be found in the image folder.
+
 index.ipynb contains the coding and markup
 
 presentation.pdf is PowerPoint presentation of my information for my stakeholder, the link for which presentation can be found [here](https://docs.google.com/presentation/d/1cg4bz9WO3JMktPdvxqbhGGsCYClR589xYYdrvFqUKxY/edit?usp=sharing).
